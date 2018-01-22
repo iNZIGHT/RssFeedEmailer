@@ -1,0 +1,11 @@
+https://labsblog.f-secure.com/feed/
+https://krebsonsecurity.com/feed/
+https://www.fireeye.com/blog/threat-research/_jcr_content.feed
+http://feeds.feedburner.com/TroyHunt?format=xml
+https://www.grahamcluley.com/feed/
+https://thehackernews.com/feeds/posts/default?alt=rss
+http://blog.malwarebytes.org/feed/
+https://www.schneier.com/blog/atom.xml
+http://rss.slashdot.org/Slashdot/slashdotMain
+https://threatpost.com/feed/
+https://rss.packetstormsecurity.com/news/
