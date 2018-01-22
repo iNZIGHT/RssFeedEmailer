@@ -41,3 +41,16 @@ optional arguments:
   -f FEEDS, --feeds FEEDS
                         Set path to feed file (default = ./feeds.txt)
 ```
+### Add script to path
+If you want, one could add the script to the path. First do
+```
+chmod a+x rssmailer.py
+```
+then 
+```
+mv rssmailer.py /usr/bin #On osx do /usr/local/bin instead
+```
+Finally, source your config file again, or restart your terminal emulator
+```
+source ~/.zshrc #depending on your shell
+```
