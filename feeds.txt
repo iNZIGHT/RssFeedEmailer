@@ -9,3 +9,4 @@ https://www.schneier.com/blog/atom.xml
 http://rss.slashdot.org/Slashdot/slashdotMain
 https://threatpost.com/feed/
 https://rss.packetstormsecurity.com/news/
+https://www.cypro.se/feed/
